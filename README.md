@@ -5,10 +5,6 @@
 
 ![make_dinner](https://user-images.githubusercontent.com/54714572/82800992-8bcea180-9eb7-11ea-9aeb-21fbb9883e8c.gif)
 
-## 制作背景
-毎日違うメニューの献立を考えることが苦痛でした。
-この苦痛は主婦の方などの多くの方々の悩みでもあると考え、その悩みを解決すべく制作いたしました。
-
 ## 使用技術
 - TypeScript
 - Vue.js
